@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //Hello world lol
+            //Hello world lol ---LOL
         }
     }
 }
